@@ -97,7 +97,7 @@ export default function Achievements() {
             >
               {/* Quote */}
               <div className="absolute text-5xl text-yellow-400/20 top-2 left-4">
-                "
+                &ldquo;
               </div>
 
               <p className="text-gray-300 text-sm leading-relaxed mb-6 pt-6">
